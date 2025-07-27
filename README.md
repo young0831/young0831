@@ -20,6 +20,23 @@
 - ⚡ 취미: 축구, 탁구, 당구, 산책, 볼링
 
 ---
+<!-- 왼쪽 프로필 아래에 넣고 싶다면, 프로필 cell에 붙여넣으세요 -->
+<h4>📅 codetest Commit Activity</h4>
+<p>
+  <img src="https://img.shields.io/github/commit-activity/w/wnsdud990831/codetest?style=flat-square&color=blue" alt="Weekly Commits"/>
+  <img src="https://img.shields.io/github/commit-activity/y/wnsdud990831/codetest?style=flat-square&color=blue" alt="Yearly Commits"/>
+</p>
+
+<!-- 또는 오른쪽 본문에 Pinned 카드로 -->
+<h2>📌 Pinned: codetest</h2>
+<p align="center">
+  <a href="https://github.com/wnsdud990831/codetest" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=young0831&repo=codetest&theme=blue-green"
+      alt="codetest Repo"
+    />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
