@@ -32,11 +32,14 @@
 <p align="center">
   <a href="https://github.com/young0831/codetest" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=young0831&repo=codetest&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=young0831&repo=codetest&bg_color=87CEEB&title_color=1E3A8A&text_color=0F172A&icon_color=FFFFFF"
       alt="codetest Repo"
+      width="450"
     />
   </a>
 </p>
+
+
 
 
 ## 🛠️ Tech Stack
