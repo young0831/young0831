@@ -3,7 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=안녕하세요!+저는+박준영👋;포트폴리오+레포지토리에+오신+것을+환영합니다!" alt="Typing SVG"/>
 </p>
 
----
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=young0831&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/young0831"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## 🔭 About Me
 - 🎓 대구대학교 전자전기공학부(전자공학전공) 졸업
