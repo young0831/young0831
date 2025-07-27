@@ -6,7 +6,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=young0831&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/young0831"
-  width="600"
+  width="800"
   height="300"
 />
 </a>
