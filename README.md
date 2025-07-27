@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=안녕하세요!+저는+박준영👋;포트폴리오+레포지토리에+오신+것을+환영합니다!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Yeong👋;Welcome+to+My+Github!" alt="Typing SVG"/>
 </p>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=young0831&utm_content=farm">
