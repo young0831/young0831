@@ -1,24 +1,3 @@
-<!-- 프로필 셀 안, 프로필 정보 아래에 넣어 보세요 -->
-<p align="center">
-  <!-- GitHub 배지 -->
-  <a href="https://github.com/wnsdud990831" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- LinkedIn 배지 -->
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- 이메일 배지 (Mailto 링크) -->
-  <a href="mailto:wnsdud990831@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- Blog 배지 -->
-  <a href="https://yourblog.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=wordpress&logoColor=white" alt="Blog"/>
-  </a>
-</p>
-
-
 <!-- 상단 배너 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=안녕하세요!+저는+박준영👋;포트폴리오+레포지토리에+오신+것을+환영합니다!" alt="Typing SVG"/>
