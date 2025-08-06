@@ -1,7 +1,21 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Yeong👋;Welcome+to+My+Github!" alt="Typing SVG"/>
+  <!-- 배경 GIF -->
+  <img src="https://i.ibb.co/Wn7H9YQ/galaxy-banner.gif" width="100%" alt="banner">
 </p>
+
+<!-- 타이핑 효과 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Yeong👋;Welcome+to+My+GitHub!;Embedded+Systems+%26+AI+Developer;Always+Learning+%26+Exploring!" alt="Typing SVG"/>
+</p>
+
+<!-- 반짝이는 효과 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60px" height="60px">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60px" height="60px">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60px" height="60px">
+</p>
+
 
 ## 📚 Education
 
