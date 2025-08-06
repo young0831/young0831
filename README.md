@@ -40,50 +40,6 @@
 
 ### 📂 Collaboration & Productivity  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-
-
----
-<!-- 왼쪽 프로필 아래에 넣고 싶다면, 프로필 cell에 붙여넣으세요 -->
-<h4>📅 codetest Commit Activity</h4>
-<p>
-  <img src="https://img.shields.io/github/commit-activity/w/young0831/codetest?style=flat-square&color=blue" alt="Weekly Commits"/>
-  <img src="https://img.shields.io/github/commit-activity/y/young0831/codetest?style=flat-square&color=blue" alt="Yearly Commits"/>
-</p>
-
-<!-- 또는 오른쪽 본문에 Pinned 카드로 -->
-<h2>📌 Pinned: codetest</h2>
-<p align="center">
-  <a href="https://github.com/young0831/codetest" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=young0831&repo=codetest&bg_color=87CEEB&title_color=1E3A8A&text_color=0F172A&icon_color=FFFFFF"
-      alt="codetest Repo"
-      width="450"
-    />
-  </a>
-</p>
-
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Vivado-5C2D91?style=flat-square&logo=xilinx&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/ROS2-339933?style=flat-square&logo=ros&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/YOLOv8-FF4B00?style=flat-square&logo=ultralytics&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/STM32-003399?style=flat-square&logo=stmicroelectronics&logoColor=white"/>  
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnsdud990831&show_icons=true&theme=blue-green" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdud990831&layout=compact&theme=blue-green" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🚀 Projects Highlights
@@ -99,8 +55,7 @@
 
 ## 📫 Contact Me
 - ✉️ Email: wnsdud990831@naver.com  
-- 💬 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💬 P-num: 010-7127-4914
 
 ---
 
