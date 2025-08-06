@@ -3,21 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Yeong👋;Welcome+to+My+Github!" alt="Typing SVG"/>
 </p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=young0831&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/young0831"
-  width="1500"
-  height="300"
-/>
-</a>
-
 ## 📚 Education
 
 | 기간 | 내용 |
 |------|------|
-| 2018.03 ~ 2025.02 | **대구대학교 전자공학전공**<br>· 졸트톤시대 캡스톤디자인 3등 - 우회전 일시정지 의무화 단속시스템<br>· 2024 자전거 경진대회 **특별상**<br>· 2024 교내 자율주행 전자경진대회 **입상** |
-| 2025.02.18 ~ 2025.09.08 | **Telechips AI System Semiconductor S/W Structure** |
-| 2024.07.15 ~ 2024.08.22 | **2024 미래형 이동수단** 중장기 교육 프로그램 및 자작 경진대회 |
+| 🎓 **2018.03 ~ 2025.02** | **대구대학교 전자공학전공**<br>🏆 정보통신대학 캡스톤디자인 **3등** - 우회전 일시정지 의무화 단속시스템<br>🏅 2024 자작경진대회 **특별상**<br>🚗 2024 교내 자율주행경진대회 **입상** |
+| 📘 **2025.02.18 ~ 2025.09.08** | **Telechips AI System Semiconductor S/W Structure** |
+| 🚀 **2024.07.15 ~ 2024.08.22** | **2024 미래형 이동수단** 중장기 교육 프로그램 및 자작 경진대회 |
 
 ---
 
