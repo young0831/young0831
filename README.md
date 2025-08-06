@@ -35,17 +35,6 @@
 ### 📂 Collaboration & Productivity  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
----
-
-### 🖥 Infrastructure & Deployment
-<img src="https://img.shields.io/badge/Linux%20(Ubuntu%2020.04%2F18.04)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-
----
-
-### 📂 Collaboration & Productivity
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
 
 
 ---
